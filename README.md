@@ -1,4 +1,13 @@
-### Hi there 👋
+_Eai Família_ 👋 
+##### Sou estudante de Engenharia de Software na UniFil, estou no meu primeiro ano no 2 bimestre. um pouco sobre mim:
+- 👩‍❤️‍👨Solteiro
+- 💻Garato de programa
+- 🎣As vezes pego umas Tilápia
+- 🍺Socialmente
+- 🎂06/02 ♒
+- 🥑Batida preferida
+- 🐈Tio de 3
+- 🐕Tio de 3 e irmão de 1
 
 <!--
 **Alexksandrofq/Alexksandrofq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
