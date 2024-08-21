@@ -6,6 +6,7 @@ _Olá_ 👋
 - 🥑Batida preferida
 - 🐈Tio de 3
 - 🐕Tio de 3 e irmão de 1
+- 🧑🏾‍💻Cursando Java no Senac
 
 <!--
 **Alexksandrofq/Alexksandrofq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
