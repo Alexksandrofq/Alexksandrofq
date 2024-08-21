@@ -1,9 +1,7 @@
-_Eai Família_ 👋 
+_Olá_ 👋 
 ##### Sou estudante de Engenharia de Software na UniFil, estou no meu primeiro ano. Um pouco sobre mim:
 - 👩‍❤️‍👨Solteiro
-- 💻Garoto de programa
 - 🎣As vezes pego umas Tilápia
-- 🍺Socialmente
 - 🎂06/02 ♒
 - 🥑Batida preferida
 - 🐈Tio de 3
