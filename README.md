@@ -4,8 +4,6 @@ _Olá_ 👋
 - 🎣As vezes pego umas Tilápia
 - 🎂06/02 ♒
 - 🥑Batida preferida
-- 🐈Tio de 3
-- 🐕Tio de 3 e irmão de 1
 - 🧑🏾‍💻Cursando Java no Senac
 
 <!--
