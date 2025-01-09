@@ -4,7 +4,7 @@ _Olá_ 👋
 - 🎣As vezes pego umas Tilápia
 - 🎂06/02 ♒
 - 🥑Batida preferida
-- 🧑🏾‍💻Cursando Java no Senac
+- 🧑🏾‍💻
 
 <!--
 **Alexksandrofq/Alexksandrofq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
