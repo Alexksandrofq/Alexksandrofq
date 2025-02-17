@@ -1,21 +1,27 @@
 _Olá_ 👋 
-##### Sou estudante de Engenharia de Software na UniFil, estou no meu segundo ano. Um pouco sobre mim:
-- 🎣As vezes pego umas Tilápia
-- 🎂06/02 ♒
-- 🥑Batida preferida
-- 🧑🏾‍💻 conhecimento básico em HTML, CSS, JS, Python e Java
+#### Sou estudante de Engenharia de Software na UniFil, estou no meu segundo ano. Um pouco sobre mim:
 
-<!--
-**Alexksandrofq/Alexksandrofq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinKdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexksandro-fernandes-de-queiroz-4040172b8/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alezinho_fq/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alefernandesdequeiroz@gmail.com)
 
-Here are some ideas to get you started:
+![Alexksandro fq GitHub stats](https://github-readme-stats.vercel.app/api?username=alexksandrofq&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que eu tenho conhecimento básico
+<div style="display: inline_block"><br/>
+    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="JAVA"/>
+    <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql"/>
+</div>
+
+## Formação Academica 
+- Ensino Médio - Completo (Ludgero Braga, São Carlos - SP)</br>
+- Ensino Superior - Cursando (Centro Universitário Filadélfia (UniFil), Londrina - PR)
+
+## Cursos
+- Capacitação Profissional (Módulos:  Desenvolvimento Profissional, Photoshop Básico, Hotelaria e Turismo, 
+Gestão Pessoas, Coreldraw Basico, Excel, Internet, Power Point, Windows, Word, Recursos Humanos ITB, Departamento Pessoal ITB) - Microlins, São Carlos - SP</br>
+- Formação JAVA (Java básico para iniciantes) - Senac, Londrina - PR
