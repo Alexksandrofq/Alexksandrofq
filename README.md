@@ -1,10 +1,9 @@
 _Olá_ 👋 
-##### Sou estudante de Engenharia de Software na UniFil, estou no meu primeiro ano. Um pouco sobre mim:
-- 👩‍❤️‍👨Solteiro
+##### Sou estudante de Engenharia de Software na UniFil, estou no meu segundo ano. Um pouco sobre mim:
 - 🎣As vezes pego umas Tilápia
 - 🎂06/02 ♒
 - 🥑Batida preferida
-- 🧑🏾‍💻
+- 🧑🏾‍💻 conhecimento básico em HTML, CSS, JS, Python e Java
 
 <!--
 **Alexksandrofq/Alexksandrofq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
