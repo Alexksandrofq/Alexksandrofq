@@ -1,10 +1,6 @@
 _Olá_ 👋 
 #### Sou o Alexksandro Fernandes, estudante de Engenharia de Software, estou no meu segundo ano.
 
-## 📞 Contato
-[![LinKdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexksandro-fernandes-de-queiroz-4040172b8/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alezinho_fq/)
-
 ## 💻 Tecnologias que eu tenho conhecimento básico
 <div style="display: inline_block"><br/>
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -26,6 +22,10 @@ _Olá_ 👋
 - Capacitação Profissional (Módulos:  Desenvolvimento Profissional, Photoshop Básico, Hotelaria e Turismo, 
 Gestão Pessoas, Coreldraw Basico, Excel, Internet, Power Point, Windows, Word, Recursos Humanos ITB, Departamento Pessoal ITB) - Microlins, São Carlos - SP</br>
 - Formação JAVA (Java básico para iniciantes) - Senac, Londrina - PR
+
+## 📞 Contato
+[![LinKdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexksandro-fernandes-de-queiroz-4040172b8/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alezinho_fq/)
 
 ## 🏳️‍⚧️Homem Trans🏳️‍⚧️
 💉1 ano e 4 meses
