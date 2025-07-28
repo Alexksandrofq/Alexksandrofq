@@ -11,8 +11,12 @@ _Olá_ 👋
     <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql"/>
 </div></br>
 
-## Status
-![Alexksandro fq GitHub stats](https://github-readme-stats.vercel.app/api?username=alexksandrofq&show_icons=true&theme=dark)
+## 📊 GitHub Stats
+![Alexksandrofq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexksandrofq&show_icons=true&theme=tokyonight)
+
+## 📌 Linguagens mais utilizadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexksandrofq&layout=compact&theme=tokyonight)
+
 
 ## 🎓 Formação Acadêmica 
 - Ensino Médio - Completo (Ludgero Braga, São Carlos - SP)</br>
