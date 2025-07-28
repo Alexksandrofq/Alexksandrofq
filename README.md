@@ -11,7 +11,7 @@ _Olá_ 👋
     <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql"/>
 </div></br>
 
-## 📊 GitHub Stats
+## 📊 Status
 ![Alexksandrofq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexksandrofq&show_icons=true&theme=tokyonight)
 
 ## 📌 Linguagens mais utilizadas
