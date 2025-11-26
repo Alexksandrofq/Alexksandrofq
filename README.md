@@ -12,7 +12,7 @@ _Olá_ 👋
 </div></br>
 
 ## 📊 Status
-![Alexssandrofq GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexssandrofq&show_icons=true&theme=radical)
+![Alexksandrofq GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexksandrofq&show_icons=true&theme=radical)
 
 ## 📌 Linguagens mais utilizadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexksandrofq&layout=compact&theme=tokyonight)
@@ -32,4 +32,4 @@ Gestão Pessoas, Coreldraw Basico, Excel, Internet, Power Point, Windows, Word, 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alezinho_fq/)
 
 ## 🏳️‍⚧️Homem Trans🏳️‍⚧️
-💉2 ano e 1 meses
+💉2 anos e 1 meses
