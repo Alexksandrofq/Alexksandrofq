@@ -32,4 +32,4 @@ Gestão Pessoas, Coreldraw Basico, Excel, Internet, Power Point, Windows, Word, 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alezinho_fq/)
 
 ## 🏳️‍⚧️Homem Trans🏳️‍⚧️
-💉1 ano e 4 meses
+💉2 ano e 1 meses
