@@ -12,7 +12,7 @@ _Olá_ 👋
 </div></br>
 
 ## 📊 Status
-![Alexksandrofq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexksandrofq&show_icons=true&theme=tokyonight)
+![Alexssandrofq GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexssandrofq&show_icons=true&theme=radical)
 
 ## 📌 Linguagens mais utilizadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexksandrofq&layout=compact&theme=tokyonight)
